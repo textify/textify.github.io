@@ -1,2 +1,2 @@
-# textify.github.io
-Website Preview
+# website
+Company Website
